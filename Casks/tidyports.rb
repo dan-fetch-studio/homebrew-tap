@@ -1,6 +1,6 @@
 cask "tidyports" do
-  version "1.0.0"
-  sha256 "f9bdb356e6976b9eee6d4585f5dfa3e098ae42f3a913c5bd05c329f8e5ff73df"
+  version "1.1.0"
+  sha256 "7c3fbc8bc0e9f8fa496f0b7d2a95e0269b257b23d5a56a7fb3dce386ad4f2e41"
 
   # Versioned asset, not the unversioned TidyPorts.dmg: a cask pins a checksum, so it must
   # point at a URL whose bytes never change. The unversioned copy exists for the website's
